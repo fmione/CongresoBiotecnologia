@@ -26,7 +26,7 @@ La implementación de métodos computacionales permitió operar los mini-reactor
 
 ## Poster
 
-![Poster](Poster.jpg)
+![Poster](POSTER_CIB.png)
 
 
 ## Licencia
